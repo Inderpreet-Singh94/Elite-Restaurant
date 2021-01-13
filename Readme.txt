@@ -1,9 +1,5 @@
 #Elite Restaurant
 
-Group:- 
-Inderpreet Singh
-Jaskaran Singh
-
 
 This Porject includes Html,css,Php technologies and Mysql Database.
 Bascially,it is a Desining website which represents different types of food, history about the Elite-Restaurant and location of the restaurant.
